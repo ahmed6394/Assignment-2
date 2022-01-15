@@ -24,7 +24,7 @@ Top section
     width: 582px;
     font-family: 'Roboto Slab', serif;
 }
-#content {
+.content {
     width: 400px;
     position: relative;
     animation: content;
